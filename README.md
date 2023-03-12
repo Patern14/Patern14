@@ -5,7 +5,7 @@
 <p>I see myself as a Web Craftsman, same kind of planification, work organisation, same need to quickly find new solutions and learn new techniques to achieve a goal, same things I've done before as a woodworker but different tools.</p>
 <p>Yes I know, regarding my proven experience I'm a junior. I also know my various experiences made me develop a lot of transferable skills, team work, understanding client needs, problem anticipation, adaptabilty to name a few.</p>
 
-***
+##
 
 <h3>🧰 Languages and Tools</h3>
 
@@ -28,7 +28,7 @@
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 <br>   
 
-****
+###
 
 <h3>🛠️ Work</h3>
 
@@ -41,7 +41,7 @@
 <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
 </div>
 
-*****
+###
 
 <details>
     <summary><h3>🗺️ Other experiences</h3></summary>
