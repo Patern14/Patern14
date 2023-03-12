@@ -6,7 +6,7 @@ I see myself as a Web Craftsman, same kind of planification, work organisation, 
 
 Yes I know, regarding my proven experience I'm a junior. I also know my various experiences made me develop a lot of transferable skills, team work, understanding client needs, problem anticipation, adaptabilty to name a few.
 
-***
+##
 
 ### 🧰 Languages and Tools
 
@@ -28,6 +28,7 @@ Yes I know, regarding my proven experience I'm a junior. I also know my various 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 
+##
 
 ### 🛠️ Work
 
@@ -39,7 +40,7 @@ Yes I know, regarding my proven experience I'm a junior. I also know my various 
 
 ##### Link
 
-#
+##
 
 <details>
     <summary><h3>🗺️ Other experiences</h3></summary>
