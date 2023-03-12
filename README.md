@@ -1,15 +1,15 @@
 # Paterne MALLE
 
 > ### Atypical Web Developer 
-
+<br>
 I see myself as a Web Craftsman, same kind of planification, work organisation, same need to quickly find new solutions and learn new techniques to achieve a goal, same things I've done before as a woodworker but different tools.
 
 Yes I know, regarding my proven experience I'm a junior. I also know my various experiences made me develop a lot of transferable skills like: team work, understanding client needs, problems anticipation, adaptabilty, to name a few.
-
+<br>
 ##
-
+<br>
 ## 🧰 Languages and Tools
-
+<br>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -27,18 +27,18 @@ Yes I know, regarding my proven experience I'm a junior. I also know my various 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />  
-  
+<br>
   
 ##  
 
 ## 🛠️ Work  
 
-##### Link ##### Link  
+##### Link  ##### Link  
 
-##### Link ##### Link  
-
+##### Link  ##### Link  
+<br>
 ##
-
+<br>
 <details>
     <summary><h3>🗺️ Other experiences</h3></summary>
     <h4>Sociology</h4>
