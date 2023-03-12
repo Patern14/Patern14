@@ -34,12 +34,12 @@
 <h3>🛠️ Work</h3>
 
 <div >
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20031505.webp" alt="Fyber Live" width="32%"></a>
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030646.webp" alt="Fyber Digital" width="32%"></a>
+<a href="https://fyber.live/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20031505.webp" alt="Fyber Live" width="32%"></a>
+<a href="https://fyberdigital.com/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030646.webp" alt="Fyber Digital" width="32%"></a>
 <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030844.webp" alt="Triple Index" width="32%"></a>
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="Omnivisto" width="32%"></a>
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="Valentis Advisory" width="32%"></a>
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="Ambience Response" width="32%"></a>
+<a href="https://omnivisto.com/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="Omnivisto" width="32%"></a>
+<a href="http://valentis22-com.stackstaging.com/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="Valentis Advisory" width="32%"></a>
+<a href="https://ambienceresponse.com/"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="Ambience Response" width="32%"></a>
 </div>
 
 ##
