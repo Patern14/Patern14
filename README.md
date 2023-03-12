@@ -30,13 +30,13 @@
 
 <h3>🛠️ Work</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
-    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20031505.webp" alt="" style="width:30%; object-fit: cover;"></a>
-    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030646.webp" alt="" style="width:30%; object-fit: cover;"></a>
-    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030844.webp" alt="" style="width:30%; object-fit: cover;"></a>
-    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="" style="width:30%; object-fit: cover;"></a>
-    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="" style="width:30%; object-fit: cover;"></a>
-    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="" style="width:30%; object-fit: cover;"></a>
+<div style="display:flex; flex-wrap:wrap; justify-content:space-between; gap:15px;">
+    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20031505.webp" alt="" style="width:30%; object-fit:cover;"></a>
+    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030646.webp" alt="" style="width:30%; object-fit:cover;"></a>
+    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030844.webp" alt="" style="width:30%; object-fit:cover;"></a>
+    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="" style="width:30%; object-fit:cover;"></a>
+    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="" style="width:30%; object-fit:cover;"></a>
+    <a href="" style="width:100%; display:inline-block;"><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="" style="width:30%; object-fit:cover;"></a>
 </div>
 
 ***
