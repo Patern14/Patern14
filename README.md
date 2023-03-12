@@ -28,7 +28,7 @@
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 <br>   
 
-###  
+****
 
 <h3>🛠️ Work</h3>
 
@@ -41,7 +41,7 @@
 <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
 </div>
 
-###  
+*****
 
 <details>
     <summary><h3>🗺️ Other experiences</h3></summary>
