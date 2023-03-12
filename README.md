@@ -33,13 +33,13 @@
 
 <h3>🛠️ Work</h3>
 
-<div ><!-- .element: style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;" -->
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20031505.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030646.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030844.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
-<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="" width="32%"><!-- .element: style="width:100%; object-fit: cover;" --></a><!-- .element: style="width:30%;" -->
+<div >
+<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20031505.webp" alt="Fyber Live" width="32%"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030646.webp" alt="Fyber Digital" width="32%"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030844.webp" alt="Triple Index" width="32%"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="Omnivisto" width="32%"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="Valentis Advisory" width="32%"></a>
+<a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="Ambience Response" width="32%"></a>
 </div>
 
 ##
