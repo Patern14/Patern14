@@ -30,13 +30,15 @@
 
 <h3>🛠️ Work</h3>
 
-##### Link
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
+    <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20031505.webp" alt="" width="30%"></a>
+    <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030646.webp" alt="" width="30%"></a>
+    <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030844.webp" alt="" width="30%"></a>
 
-##### Link
-
-##### Link
-
-##### Link
+    <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030102.webp" alt="" width="30%"></a>
+    <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030047.webp" alt="" width="30%"></a>
+    <a href=""><img src="https://raw.githubusercontent.com/Patern14/Patern14/main/Screenshot%202023-03-12%20030015.webp" alt="" width="30%"></a>
+</div>
 
 ***
 
