@@ -3,7 +3,7 @@
 > Atypical Web Developer 
 
 <p>I see myself as a Web Craftsman, same kind of planification, work organisation, same need to quickly find new solutions and learn new techniques to achieve a goal, same things I've done before as a woodworker but different tools.</p>
-<p>Yes I know, regarding my proven experience I'm a junior. I also know my various experiences made me develop a lot of transferable skills, team work, understanding client needs, problem anticipation, adaptabilty to name a few.</p>
+<p>Yes I know, regarding my proven experience I'm a junior. I also know my various experiences made me develop a lot of transferable skills: team work, understanding client needs, problem anticipation, adaptabilty, to name a few.</p>
 
 ##
 
